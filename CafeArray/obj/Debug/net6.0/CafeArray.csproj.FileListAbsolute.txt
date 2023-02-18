@@ -1,0 +1,15 @@
+C:\Users\lukee\OneDrive\Desktop\Console Apps\CafeArray\CafeArray\bin\Debug\net6.0\CafeArray.exe
+C:\Users\lukee\OneDrive\Desktop\Console Apps\CafeArray\CafeArray\bin\Debug\net6.0\CafeArray.deps.json
+C:\Users\lukee\OneDrive\Desktop\Console Apps\CafeArray\CafeArray\bin\Debug\net6.0\CafeArray.runtimeconfig.json
+C:\Users\lukee\OneDrive\Desktop\Console Apps\CafeArray\CafeArray\bin\Debug\net6.0\CafeArray.dll
+C:\Users\lukee\OneDrive\Desktop\Console Apps\CafeArray\CafeArray\bin\Debug\net6.0\CafeArray.pdb
+C:\Users\lukee\OneDrive\Desktop\Console Apps\CafeArray\CafeArray\obj\Debug\net6.0\CafeArray.csproj.AssemblyReference.cache
+C:\Users\lukee\OneDrive\Desktop\Console Apps\CafeArray\CafeArray\obj\Debug\net6.0\CafeArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukee\OneDrive\Desktop\Console Apps\CafeArray\CafeArray\obj\Debug\net6.0\CafeArray.AssemblyInfoInputs.cache
+C:\Users\lukee\OneDrive\Desktop\Console Apps\CafeArray\CafeArray\obj\Debug\net6.0\CafeArray.AssemblyInfo.cs
+C:\Users\lukee\OneDrive\Desktop\Console Apps\CafeArray\CafeArray\obj\Debug\net6.0\CafeArray.csproj.CoreCompileInputs.cache
+C:\Users\lukee\OneDrive\Desktop\Console Apps\CafeArray\CafeArray\obj\Debug\net6.0\CafeArray.dll
+C:\Users\lukee\OneDrive\Desktop\Console Apps\CafeArray\CafeArray\obj\Debug\net6.0\refint\CafeArray.dll
+C:\Users\lukee\OneDrive\Desktop\Console Apps\CafeArray\CafeArray\obj\Debug\net6.0\CafeArray.pdb
+C:\Users\lukee\OneDrive\Desktop\Console Apps\CafeArray\CafeArray\obj\Debug\net6.0\CafeArray.genruntimeconfig.cache
+C:\Users\lukee\OneDrive\Desktop\Console Apps\CafeArray\CafeArray\obj\Debug\net6.0\ref\CafeArray.dll
